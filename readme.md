@@ -15,9 +15,9 @@ Before running the project, make sure you have the following programs installed:
 ## Steps:
 Clone the repository:
 ```Bash
-git clone https://github.com/your-user/your-project.git 
+https://github.com/CinthiaDayanara/Hello-world-ruby2.git 
 ``` bash
-cd your-project
+cd Hello-world-ruby2
 ```
 ### Install dependencies using Bundler:
 ```Bash
@@ -28,6 +28,6 @@ bundle install
 ```Bash
 ruby app.rb
 ```
-or
+and
 
  http://127.0.0.1:4567
